@@ -2,6 +2,7 @@
   "name": "vite-personal",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://MalikKhadar.github.io/vite-personal/",
   "type": "module",
   "scripts": {
     "predeploy" : "npm run build",
